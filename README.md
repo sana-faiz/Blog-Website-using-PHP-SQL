@@ -1,4 +1,4 @@
-# Blog-Website-using-PHP-SQL
+# Blog-Website-using-PHP-MySql
 Online Blog Website using PHP/MySQL 
 
 How to Run:
